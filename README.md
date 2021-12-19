@@ -9,8 +9,9 @@ The technologies used for building this project:
 
 1. HTML
 2. CSS (Bootstrap)
-3. JQuery
-4. Ajax
+3. Javascript
+4. JQuery
+5. Ajax
 
 ### How to start development?
 
