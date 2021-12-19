@@ -12,4 +12,11 @@ The technologies used for building this project:
 3. JQuery
 4. Ajax
 
+### How to start development?
+
+- First clone the repository
+- Start implemented the HTML and CSS of the Login and Dashboard pages
+- Work on static data until backend will be finished
+- Once backend is done then use the Ajax request, there are four files under `js/` folder each one can work on this or divide as you like
+
 Happy coding :)
